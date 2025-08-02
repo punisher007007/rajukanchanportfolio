@@ -160,3 +160,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ **Star this repo if you found it helpful!**
+
+*Portfolio deployment configured for GitHub Pages with automatic CI/CD*
